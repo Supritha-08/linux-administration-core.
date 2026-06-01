@@ -1,0 +1,21 @@
+Linux-  Its a open source (free more than that ,anybody can use that) ,Its basically a kernel.
+Os-Operating System,Its act as a platform between the hardware and software
+Example-If you want to open the virtual box you have to open that os and hence the hardware like RAM,processor ,Hard disk will interact with that.
+
+
+Two ways to  Os
+1.CLI-linux 
+2.Graphical-windows,Mac,ANdroid,ios
+
+By using the linux source code we can develop the os based on that like 
+-redhat
+-dsbain
+-ubantu
+-centos
+-parrot_os
+-kali linux
+
+Kernel -Linus Torvalds in 1991.  -Its the core working component of OS.
+The kernel is the core code of an OS that acts as a bridge between your computer's hardware (CPU, memory, storage) and the software applications you run. It was created in 1991 by a student named Linus Torvalds. 
+
+The Operating System (Linux Distributions): A kernel alone can't do much for an everyday user. To make it a usable operating system, developers bundle the Linux kernel with standard system utilities, graphical interfaces, web browsers, and package managers. These complete packages are called Linux Distributions (or "Distros"). 
