@@ -1,0 +1,35 @@
+Red hat is paid
+Linux kernel is free
+Open source-its is fit and open to use
+
+
+
+Benefits of OS:
+1. Free and Open Source
+2. High Stability and Continuous Uptime
+3. Advanced Security and Strict Permissions
+4. Native Development and Production Parity
+5. Single-Command Package Management
+6. Lightweight Performance and Resource Efficiency
+7. Zero Bloatware and User-Controlled Updates
+8. Complete Interface and Workflow Customization
+
+Website:tiny linux core
+
+Creating a folder:mkdir-make directory
+If you want to use the command line you have to use the powershell in windows.
+
+Opened kali:#Comments
+Pwd:present working directory (where we are)
+->pwd
+Ls :list the content in the directory
+-> ls
+d:cchane the directory 
+-> cd desktop
+Mkdir:make directory
+->mkdir test
+
+There are 3 ways of using the linux 
+-> remove windows and use linux
+->dual boot option
+->virtualization box->hypervisior
