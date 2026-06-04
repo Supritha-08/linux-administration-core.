@@ -1,0 +1,48 @@
+What is Tiny Core Linux?
+Tiny Core Linux is a highly minimalist, ultra-lightweight Linux distribution. Instead of being a fully loaded operating system out of the box, it provides only the bare minimum required to boot into a very basic graphical user interface (GUI).
+The Size: While a standard operating system like Ubuntu or Windows takes up 5 GB to 20 GB, Tiny Core is only about 11 MB to 23 MB in size.
+How it works: It boots and runs entirely inside your computer's RAM. This makes it incredibly fast, but also means that by default, any changes you make vanish when you reboot, unless you explicitly configure persistent storage.
+REd hat is professional and paid version but centos is free  so we will use that.
+
+Day 4-Linux file system
+QEMU-kali linux
+
+Comments
+->whoami
+#we will get who we are logged in
+->clear
+#clear the screen
+->pwd
+# present directory
+->ls
+List the files
+In everything linux is files only . every command is also a files
+Folders called as directories
+
+
+
+Bin-binaries(computer understandable language)
+->cat ls
+Showing the files in the ls
+->cp ls copy
+#copy the content inside the ls to copy
+->copy
+#display the contents
+->rm ls
+#removing file called ls
+
+->pwd 
+
+Sbin-super bin-administrative commands
+
+cd ~ explicitly forces the terminal to jump back to your primary home folder (/home/vboxuser), which is exactly where the Desktop folder lives. 
+
+In  linux everything is file only
+
+->Cd sbin
+# displays the command used by admin people
+
+Linux file hierarchy(starts with the /)
+
+Bin-binaries
+
