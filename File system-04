@@ -1,0 +1,38 @@
+Day 6- centos 7 sir is using 
+
+Echo—--
+Echo-printing statement
+Echo ‘Linux-Core-01 >/etc/hostname
+Etc-configuration files inside this
+>-this symbol called redirect 
+
+pwd—present working directory 
+/root - it is the root home directory
+Documents,desktop,public,videos these are the contents
+Cd ..-.. Refers to the parent directory
+Absolute path:cd/home/ng/desktop(start from slash)
+Relative Path:specific folder (inside the folder)
+
+Check thissssss
+CD-home directory for the current user 
+Cd.-same folder
+       Current folder
+Cd -toggle between two paths in the sense from left to right or vice versa.
+
+ls-Listing contents
+We have options with this 
+Ls-a:select all
+.-current working
+.-hidden files
+.-parent directory
+.movies - it is file or folder
+(so all this files can be access or see wih using ls-a command)
+ls-l->long listing 
+
+–file
+D-directory
+L-linked files
+-t-recently modified 
+Ls-r- reversing the list 
+ls-R-list the files and folders repeatedly.it able to check that what are the files we have inside the folder.
+
